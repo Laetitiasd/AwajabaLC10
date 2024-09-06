@@ -1,4 +1,6 @@
-Public Class Repas{
-  public static void main(String[] args) {
-  }
+Public Class Repas
+
+ private int numero;
+ private LocalDate date;
+
 }
